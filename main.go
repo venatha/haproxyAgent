@@ -1,3 +1,8 @@
+// Copyright 2016 Dan Longshaw. All rights reserved.
+/*
+	This application serves as a REST API for a custom built haproxy management platform
+	It will implement basic GET/POST/DELETE routes for most haproxy functions
+*/
 package main
 
 import (
